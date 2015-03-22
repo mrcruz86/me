@@ -15,3 +15,10 @@ core-toolbar {
   margin-top: 10em;
   width: 10em;
 }
+
+#signup-form {
+	margin-top: 2em;
+	width: 30em;
+	background-color: #03A9F4;
+	color: #fafafa
+}
